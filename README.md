@@ -28,7 +28,7 @@ A full stack Task Management Web Application built using the MERN stack (MongoDB
 
 1. Clone the repository:
    
-   git clone https://github.com/muhammadranju/task-management.git
+   git clone https://https://github.com/Arham-github/Task-managment
 
 
 2. Backend Setup:
