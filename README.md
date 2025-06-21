@@ -26,12 +26,10 @@ A full stack Task Management Web Application built using the MERN stack (MongoDB
 
 🔧 Setup Instructions
 
-1. Clone the repository:
-   
-   git clone https://https://github.com/Arham-github/Task-managment
 
 
-2. Backend Setup:
+
+1. Backend Setup:
 
    ```bash
    cd backend
@@ -39,7 +37,7 @@ A full stack Task Management Web Application built using the MERN stack (MongoDB
    npm start
    ```
 
-3. Frontend Setup:
+2. Frontend Setup:
 
    ```bash
    cd frontend
@@ -47,7 +45,7 @@ A full stack Task Management Web Application built using the MERN stack (MongoDB
    npm start
    ```
 
-4. Environment Variables:
+3. Environment Variables:
    Create a `.env` file in the backend folder with:
 
    ```
